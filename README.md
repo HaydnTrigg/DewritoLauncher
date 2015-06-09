@@ -1,26 +1,19 @@
-# DewritoLauncher
+Dewrito Launcher
+=====================
 
-**We use Git for the purpose of sharing code. There are no guarantees that any commits made to this repository will work perfectly or even compile. If you compile this yourself, you are on your own unless you have constructive advice to offer. Do not beg for help or whine about issues on the IRC channel. Additionally, it is expected that you will not share anything that you compile. We do not want users getting viruses or mistaking an unofficial release for an official one.**
+Dewrito Launcher is an application for launching the unofficial Halo Online Eldewrito project. It has auto updating features and settings customization.
 
-Halo Online Launcher with auto updating features
+![Screenshot](http://raw.github.com/haydntrigg/DewritoLauncher/master/doc/images/preview.jpg)
 
-&nbsp;
+About the Project
+---------
 
-#### License:
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">ElDewrito Launcher</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/FishPhd/DewritoLauncher" rel="dct:source">https://github.com/FishPhd/DewritoLauncher</a>.
-
-&nbsp;
-
-#### Changelog
-
-0.4.6 (Message FishPhd for all visual issues)
-* Added in new options in settings menu
-* Added Browser support (Awesomium)
-* Added animations for verifying files and Errors
-* Application is now borderless (no windows titlebar)
-* Custom messageboxes, progress bar, and minimize/close items added
-* Launcher will give option to restart application automatcally after update
-* Added new scrollbar for changelog
-* Tons of new settings
-* Player Customization tab for pimping your spartan
+* **Auto Update**:  	Dewrito Launcher has an automatic update service ensuring that you always 
+						have access to the very latest version of the game.
+						
+* **Customisation**:  	Ability to edit the Eldewrito settings with a user friendly interface
+						and avoid making any nasty mistakes.
+						
+Quick Links
+---------
+* **Changelog**: https://github.com/HaydnTrigg/DewritoLauncher/blob/master/CHANGELOG.md
